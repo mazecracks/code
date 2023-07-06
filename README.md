@@ -1,2 +1,5 @@
-# code
-compilation of Python codes
+DATA SCIENTIST
+EDUCATION 
+WORK EXPERIENCE
+PROJECTS
+
