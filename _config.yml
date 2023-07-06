@@ -2,4 +2,4 @@ title: Olajuwon Yakub
 #logo
 #desciption
 #show_downloads:true
-theme: jekyll-theme-minimal
+remote_theme: pages-theme/cayman@v0.2.0
